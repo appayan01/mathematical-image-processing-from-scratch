@@ -2,6 +2,7 @@
 
 A mathematical study of digital image processing implemented from first principles using Python.
 
+![Final Pipeline](images/final%204%20results%20cat.png)
 ## Overview
 
 This project treats a digital image as a discrete mathematical object and builds an image-processing pipeline using fundamental operations rather than high-level computer-vision libraries.
